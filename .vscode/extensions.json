@@ -4,6 +4,9 @@
         "formulahendry.auto-complete-tag",
         "zainchen.json",
         "eriklynd.json-tools",
-        "nickdemayo.vscode-json-editor"
+        "nickdemayo.vscode-json-editor",
+        "utsavm9.c-cpp-flag-debugging",
+        "franneck94.c-cpp-runner",
+        "xdebug.php-debug"
     ]
 }
