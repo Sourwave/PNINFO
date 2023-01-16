@@ -1,6 +1,9 @@
 {
     "recommendations": [
         "formulahendry.auto-rename-tag",
-        "formulahendry.auto-complete-tag"
+        "formulahendry.auto-complete-tag",
+        "zainchen.json",
+        "eriklynd.json-tools",
+        "nickdemayo.vscode-json-editor"
     ]
 }
